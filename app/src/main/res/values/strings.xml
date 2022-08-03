@@ -16,4 +16,5 @@
     <string name="clear">CLEAR</string>
     <string name="stringAdd">+</string>
     <string name="stringEquals">=</string>
+    <string name="stringDecimal">.</string>
 </resources>
